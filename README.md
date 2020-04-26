@@ -1,6 +1,4 @@
-# Building a website with Node.js and Express
 
-This repository contains the code for my course 'Building Bots with Node.js' on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/daniel-khan).
 
 The master branch contains the initial version to get started with, while the branches contain the state of the code at the beginning (e.g. 02_02**b**) and end (e.g. 02_02**e**) of a video.
 
